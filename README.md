@@ -53,6 +53,14 @@ We welcome participants from all backgrounds, including:
 3. Form or join a team, or register as an individual and we'll help you find a team.
 4. Submit your registration by October 31, 2024.
 
+## Organizing Committee
+
+Francisco Marmolejo-Cosío, Harvard University 
+Jaqueline Calderón Hernández, Universidad Autónoma de San Luis Potosí
+George Obaido, University of California, berkeley
+Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica
+Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica
+
 ## Sponsors and Partners
 
 We are proud to partner with leading organizations, including:
@@ -60,7 +68,9 @@ We are proud to partner with leading organizations, including:
 - Mobile Health Center, Instituto Potosino de Investigación Científica y Tecnológica 
 - Universidad Autónoma de San Luis Potosí
 - 
+
 - 
+
 
 ## 📧 Contact
 
