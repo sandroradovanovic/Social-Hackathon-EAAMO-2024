@@ -56,11 +56,11 @@ We welcome participants from all backgrounds, including:
 ## Organizing Committee
 
 
-- Jaqueline Calderón Hernández, Universidad Autónoma de San Luis Potosí
-- Francisco Marmolejo-Cosío, Harvard University 
-- George Obaido, University of California, Berkeley
-- Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica
-- Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica
+- Jaqueline Calderón Hernández, Universidad Autónoma de San Luis Potosí.
+- Francisco Marmolejo-Cosío, Harvard University. 
+- George Obaido, University of California, Berkeley.
+- Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica.
+- Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica.
 
 ## Sponsors and Partners
 
