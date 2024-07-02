@@ -1,4 +1,4 @@
-# EAAMO'24 Social Hackathon: Exploring Breast Cancer and the Environment in México 
+# EAAMO'24 Social Hackathon: Environmental factors and Breast Cancer in México 
 
 **Dates:** October 29-31, 2024  
 **Location:** San Luis Potosí, SLP Mexico  
