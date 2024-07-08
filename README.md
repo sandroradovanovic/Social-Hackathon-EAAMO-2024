@@ -26,10 +26,10 @@ Extending our understanding between breast cancer mortality and environmental ca
 
 ### Specific goals
 
-1.	Priority#1—Improve public health decisions. To create novel surveillance systems incorporating algorithms, something technical needs to be included here. To identify populations with high breast cancer mortality and characterize the scenarios of environmental carcinogen hazards, medical infrastructure and social environment. 
-2.	Priority#2—Reduce barriers for health care. To improve health care access, creating bridges between most in need individuals and health care facilities.  
-3.	Priority#3— Risk tools. To improve breast cancer risk estimation by incorporating environmental carcinogens risk, healthcare access and social hazards in a risk tool. Include examples of already developed tools. Calculator example: About the Calculator: The Breast Cancer Risk Assessment Tool - NCI
-4.	Priority#4— Science education. To develop digital tools to translate scientific evidence for individuals, communities and public policy regarding breast cancer.  Improve public health decision making. 
+1.	Priority 1—Improve public health decisions. To create novel surveillance systems incorporating algorithms, something technical needs to be included here. To identify populations with high breast cancer mortality and characterize the scenarios of environmental carcinogen hazards, medical infrastructure and social environment. 
+2.	Priority 2—Reduce barriers for health care. To improve health care access, creating bridges between most in need individuals and health care facilities.  
+3.	Priority 3— Risk tools. To improve breast cancer risk estimation by incorporating environmental carcinogens risk, healthcare access and social hazards in a risk tool. Include examples of already developed tools. Calculator example: About the Calculator: The Breast Cancer Risk Assessment Tool - NCI
+4.	Priority 4— Science education. To develop digital tools to translate scientific evidence for individuals, communities and public policy regarding breast cancer.  Improve public health decision making. 
 
 ### References
 
@@ -41,12 +41,11 @@ Extending our understanding between breast cancer mortality and environmental ca
 
 4. World Health Organization. Global action plan for the prevention and control of noncommunicable diseases 2013-2020 [Internet]. World Health Organization; 2013 [cited October 28,de 2022]. iii, 103 p. Available here: https://apps.who.int/iris/handle/10665/94384.
 
-
 5. Niehoff NM, Keil AP, Jones RR, Fan S, Gierach GL, White AJ. Outdoor air pollution and terminal duct lobular involution of the normal breast. Breast Cancer Res. 2020 Sep 24;22(1):100. doi: 10.1186/s13058-020-01339-x. PMID: 32972455; PMCID: PMC7513536.
 
 6. Kotake, Rina & Yamauchi, Hideko & Kimura, Takeshi & Tsunoda, Hiroko & Lee, Mihye. (2022). An association between mammographic breast density and fine particulate matter among postmenopausal women. Environmental Science and Pollution Research. 30. 10.1007/s11356-022-23529-0.
 
-
+### Glossary of terms (TODO)
 
 ## Event Details
 
