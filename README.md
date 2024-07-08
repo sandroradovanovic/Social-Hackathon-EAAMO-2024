@@ -2,14 +2,18 @@
 
 **Dates:** October 29-31, 2024  
 **Location:** San Luis Potosí, SLP Mexico  
-**Venue:** Universidad Autónoma de San Luis Potosí 
+**Venue:** Universidad Autónoma de San Luis Potosí  
 **Registration Deadline:** September 1, 2024
 
 ## Overview
 
 Breast cancer is a significant global health issue, being the most common cancer among women and a leading cause of cancer-related deaths. Worldwide, it accounts for about 25% of all cancer cases and 15% of cancer deaths among women. Risk factors include genetic predisposition, lifestyle choices, and environmental factors. Early detection through screening and advancements in treatment have improved survival rates, but disparities in healthcare access continue to affect outcomes, particularly in low- and middle-income countries.
 
-In Mexico, breast cancer is the most common cancer among women and the leading cause of cancer deaths in women aged 25 and older. The incidence has been rising, with late-stage diagnosis being a significant challenge due to limited access to screening and healthcare services. Cultural factors, lack of awareness, and socioeconomic barriers also contribute to delayed diagnosis and treatment. Efforts are being made to enhance early detection, improve treatment options, and increase public awareness to combat the rising burden of breast cancer in Mexico.
+In Mexico, breast cancer is the most common cancer among women and the leading cause of cancer deaths in women aged 25 and older. It contributes to 30% of malignant neoplasms in women, with an incidence rate of 40.5 per 100,000 inhabitants in 2020, rising to 49.3 per 100,000 in 2022. Late-stage diagnosis is a significant challenge due to limited access to screening and healthcare services, compounded by cultural factors, lack of awareness, and socioeconomic barriers. Studies indicate that established risk factors for breast cancer could explain up to 70% of postmenopausal cases in the US non-Hispanic White population, but only about one-third of cases could be prevented by modifying lifestyle factors. In Mexico, a significant relationship between education level, socioeconomic status, and breast cancer prognosis has been reported, highlighting disparities in outcomes.
+
+Environmental exposures, including carcinogens and endocrine-disrupting compounds (EDCs), also play a crucial role in breast cancer risk. These exposures include air pollution, classified as a carcinogen by the IARC, which can cause genetic mutations and increase breast density through hormonal disruptions. Heavy metals in air pollution, such as lead and mercury, have been associated with increased breast cancer risk due to their xenoestrogen properties and ability to disrupt hormonal balance. These factors do not fully explain the rise in breast cancer cases, suggesting the role of environmental chemical exposures.
+
+There is a clear need to understand better how these risk factors impact breast cancer mortality, particularly in high-risk and low-income communities disproportionately exposed to hazardous chemicals and with reduced healthcare access. Efforts are being made to enhance early detection, improve treatment options, and increase public awareness to combat the rising burden of breast cancer in Mexico. Effective, evidence-based public health decisions require incorporating novel approaches to surveillance and research on environmental exposures, social risks, and healthcare access.
 
 ## Event Details
 
@@ -68,10 +72,6 @@ We are proud to partner with leading organizations, including:
 
 - Mobile Health Center, Instituto Potosino de Investigación Científica y Tecnológica 
 - Universidad Autónoma de San Luis Potosí
-- 
-
-- 
-
 
 ## 📧 Contact
 
