@@ -39,7 +39,7 @@ Extending our understanding between breast cancer mortality and environmental ca
 
 3. Sollozo-Dupont I, Lara-Ameca VJ, Cruz-Castillo D, Villaseñor-Navarro Y. Relationship between Health Inequalities and Breast Cancer Survival in Mexican Women. Int J Environ Res Public Health. 2023 Mar 30;20(7):5329. doi: 10.3390/ijerph20075329. PMID: 37047945; PMCID: PMC10094649.
 
-4. World Health Organization. Global action plan for the prevention and control of noncommunicable diseases 2013-2020 [Internet]. World Health Organization; 2013 [citado 28 de octubre de 2022]. iii, 103 p. Disponible en: https://apps.who.int/iris/handle/10665/94384.
+4. World Health Organization. Global action plan for the prevention and control of noncommunicable diseases 2013-2020 [Internet]. World Health Organization; 2013 [cited October 28,de 2022]. iii, 103 p. Available here: https://apps.who.int/iris/handle/10665/94384.
 
 
 5. Niehoff NM, Keil AP, Jones RR, Fan S, Gierach GL, White AJ. Outdoor air pollution and terminal duct lobular involution of the normal breast. Breast Cancer Res. 2020 Sep 24;22(1):100. doi: 10.1186/s13058-020-01339-x. PMID: 32972455; PMCID: PMC7513536.
