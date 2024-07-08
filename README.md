@@ -30,7 +30,7 @@ Extending our understanding between breast cancer mortality and environmental ca
 2.	Priority#2—Reduce barriers for health care. To improve health care access, creating bridges between most in need individuals and health care facilities.  
 3.	Priority#3— Risk tools. To improve breast cancer risk estimation by incorporating environmental carcinogens risk, healthcare access and social hazards in a risk tool. Include examples of already developed tools. Calculator example: About the Calculator: The Breast Cancer Risk Assessment Tool - NCI
 4.	Priority#4— Science education. To develop digital tools to translate scientific evidence for individuals, communities and public policy regarding breast cancer.  Improve public health decision making. 
-![image](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024/assets/62913576/49679693-fcbc-4fd4-a64e-5b6608bd6bf0)
+
 
 
 
