@@ -31,6 +31,20 @@ Extending our understanding between breast cancer mortality and environmental ca
 3.	Priority#3— Risk tools. To improve breast cancer risk estimation by incorporating environmental carcinogens risk, healthcare access and social hazards in a risk tool. Include examples of already developed tools. Calculator example: About the Calculator: The Breast Cancer Risk Assessment Tool - NCI
 4.	Priority#4— Science education. To develop digital tools to translate scientific evidence for individuals, communities and public policy regarding breast cancer.  Improve public health decision making. 
 
+### References
+
+1. Leal YA, Torres J, Gamboa R, Mantilla-Morales A, Piña-Sanchez P, Arrieta O, Bonifaz L, Meneses A, Duque C, Piñeros M. Cancer Incidence in Merida, Mexico 2015-2018: First Report from the Population-based Cancer Registry. Arch Med Res. 2022 Dec;53(8):859-866. doi: 10.1016/j.arcmed.2022.11.015. Epub 2022 Dec 1. PMID: 36462950.
+
+2. Ou JY, Kirchhoff AC, Hanson HA. Air Pollution across the Cancer Continuum: Extending Our Understanding of the Relationship between Environmental Exposures and Cancer. Cancer Epidemiol Biomarkers Prev. 2020 Oct;29(10):1876-1879. doi: 10.1158/1055-9965.EPI-19-1588. PMID: 33004409; PMCID: PMC8170704.
+
+3. Sollozo-Dupont I, Lara-Ameca VJ, Cruz-Castillo D, Villaseñor-Navarro Y. Relationship between Health Inequalities and Breast Cancer Survival in Mexican Women. Int J Environ Res Public Health. 2023 Mar 30;20(7):5329. doi: 10.3390/ijerph20075329. PMID: 37047945; PMCID: PMC10094649.
+
+4. World Health Organization. Global action plan for the prevention and control of noncommunicable diseases 2013-2020 [Internet]. World Health Organization; 2013 [citado 28 de octubre de 2022]. iii, 103 p. Disponible en: https://apps.who.int/iris/handle/10665/94384.
+
+
+5. Niehoff NM, Keil AP, Jones RR, Fan S, Gierach GL, White AJ. Outdoor air pollution and terminal duct lobular involution of the normal breast. Breast Cancer Res. 2020 Sep 24;22(1):100. doi: 10.1186/s13058-020-01339-x. PMID: 32972455; PMCID: PMC7513536.
+
+6. Kotake, Rina & Yamauchi, Hideko & Kimura, Takeshi & Tsunoda, Hiroko & Lee, Mihye. (2022). An association between mammographic breast density and fine particulate matter among postmenopausal women. Environmental Science and Pollution Research. 30. 10.1007/s11356-022-23529-0.
 
 
 
