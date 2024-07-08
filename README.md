@@ -5,7 +5,7 @@
 **Venue:** Universidad Autónoma de San Luis Potosí  
 **Registration Deadline:** September 1, 2024
 
-## Background and Significance
+### Background and Significance
 
 Breast cancer is the most common cancer in women; in Mexico, it contributes to 30% of malignant neoplasia in women, and the incidence rate was 40.5/100,000 inhabitants in 2020. Data from the Population-based Cancer Registry in Merida (PBCR)-Merida reported an age-adjusted incidence rate of breast cancer of 49.3/100000 in 2022 (Leal Y, 2020).   Studies have estimated that established risk factors for breast cancer could explain up to 70% of postmenopausal breast cancer cases in the US non-Hispanic White population. However, only approximately one-third of cases could be prevented by modifying lifestyle factors such as weight, menopausal hormone therapy, alcohol use, and physical activity (Ou JY, 2020).  
 
