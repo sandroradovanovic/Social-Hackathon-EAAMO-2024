@@ -65,6 +65,7 @@ We welcome participants from all backgrounds, including:
 - George Obaido, University of California, Berkeley.
 - Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica.
 - Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica.
+- Sandro Radovanovick, University of Belgrade
 
 ## Sponsors and Partners
 
