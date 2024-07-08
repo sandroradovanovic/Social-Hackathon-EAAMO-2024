@@ -5,7 +5,7 @@
 **Venue:** Universidad Autónoma de San Luis Potosí  
 **Registration Deadline:** September 1, 2024
 
-## Overview
+## Background and Significance
 
 Breast cancer is the most common cancer in women; in Mexico, it contributes to 30% of malignant neoplasia in women, and the incidence rate was 40.5/100,000 inhabitants in 2020. Data from the Population-based Cancer Registry in Merida (PBCR)-Merida reported an age-adjusted incidence rate of breast cancer of 49.3/100000 in 2022 (Leal Y, 2020).   Studies have estimated that established risk factors for breast cancer could explain up to 70% of postmenopausal breast cancer cases in the US non-Hispanic White population. However, only approximately one-third of cases could be prevented by modifying lifestyle factors such as weight, menopausal hormone therapy, alcohol use, and physical activity (Ou JY, 2020).  
 
@@ -16,6 +16,23 @@ Emerging evidence indicates that toxic chemicals in the air may be associated wi
 Moreover, studies that only look at exposure to environmental hazards later in life may not account for effects from earlier exposures. There is evidence that air pollutants can change the architecture of the breast (Niehoff NM,2020) by increasing breast density. Air pollutants may affect breast cancer incidence by increasing breast density, female hormones affect breast density, and some air pollutants exhibit endocrine-disrupting properties(Kotaque R, 2023). Data from experimental studies suggest that heavy metals possess both xenoestrogen properties, or EDCs (endocrine disrupting chemicals) that disrupt the natural hormonal balance and carcinogenic properties, offering a potential hypothesis for association with levels of lead, mercury, arsenic, and cadmium in air pollution suggest an increased likelihood of developing BC in women exposed to these chemicals’ hazards through air or water. 
 
 In recent years, a better understanding of heavy metals and endocrine disruptions, even at low concentrations. For example, the metallic components of air pollution exposure can last for half-lives and accumulate in breast tissue. There is a clear need to understand better how these risk factors could have an impact on breast cancer mortality, particularly in high-risk populations and low-income communities, who are disproportionately exposed to hazards and chemicals in the environment, have more social disadvantages reducing their healthcare access, and are typically underrepresented in research studies. Novel approaches are required to develop evidence-based public health decisions between environmental exposures, social risk, healthcare access, and breast cancer mortality surveillance. 
+
+### Goal
+Extending our understanding between breast cancer mortality and environmental carcinogens hazards, health care and social disparities in Mexican women. 
+
+1.	To develop a dynamic surveillance platform to storing, sharing and analyzing unified databases to identify populations of breast cancer mortality with the highest risk of aggregated and cumulative chemical environmental hazards (carcinogens, endocrine disruptors), healthcare infrastructure  and/or social disadvantages at national and local level.
+2.	To create a digital ecosystem to visualize temporal and spatial trends at different geographical levels, to monitor and predict breast cancer disparities to provide evidence for decision makers and strengthen the health care system. 
+3.	To strength technical capabilities by incorporating cutting-edge …update healthcare system and provide expert training or support. (Not finished yet)
+
+### Specific goals
+
+1.	Priority#1—Improve public health decisions. To create novel surveillance systems incorporating algorithms, something technical needs to be included here. To identify populations with high breast cancer mortality and characterize the scenarios of environmental carcinogen hazards, medical infrastructure and social environment. 
+2.	Priority#2—Reduce barriers for health care. To improve health care access, creating bridges between most in need individuals and health care facilities.  
+3.	Priority#3— Risk tools. To improve breast cancer risk estimation by incorporating environmental carcinogens risk, healthcare access and social hazards in a risk tool. Include examples of already developed tools. Calculator example: About the Calculator: The Breast Cancer Risk Assessment Tool - NCI
+4.	Priority#4— Science education. To develop digital tools to translate scientific evidence for individuals, communities and public policy regarding breast cancer.  Improve public health decision making. 
+![image](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024/assets/62913576/49679693-fcbc-4fd4-a64e-5b6608bd6bf0)
+
+
 
 ## Event Details
 
